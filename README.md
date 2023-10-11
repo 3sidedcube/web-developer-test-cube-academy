@@ -27,12 +27,12 @@ Please reach out to [insert email here] if you have any queries regarding design
 
 ### Requirements
 
-You must use the following technologies:
+Please consider using the following technologies:
 
-- **Language:** Typescript
+- **Language:** Typescript or Javascript
 - **Framework:** React.js (this could be in the form of any react framework, e.g. Next.js, Vite, Create React App)
-- **Styling:** [Tailwind.css](https://tailwindcss.com/)
-- **Forms:** [React Hook Form](https://react-hook-form.com/) with yup validation ([see the docs on validation](https://react-hook-form.com/get-started#SchemaValidation))
+- **Styling:** [Tailwind.css](https://tailwindcss.com/) (or similar utility based CSS frameworks)
+- **Forms:** [React Hook Form](https://react-hook-form.com/) with yup validation ([see the docs on validation](https://react-hook-form.com/))
 - **REST requests:** [Tanstack Query (useQuery)](https://tanstack.com/query/latest) - Combine this with [openapi-codegen](https://github.com/fabien0102/openapi-codegen) for auto generated hooks from our API documentation!
 
 ## API requests
