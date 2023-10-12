@@ -16,9 +16,9 @@ The designs include:
 - A design system (to help with creating a "theme" and re-usable elements).
 - Desktop and Mobile layouts (please use both these to create the site in a responsive way).
 
-The designs also act as a source of truth for functional requirements.
+The designs act as a source of truth for functional requirements.
 
-Please reach out to [insert email here] if you have any queries regarding designs and functional requirements.
+Approach this task critically and come to the table with compromises, assumptions or questions when the picture isn't clear.
 
 ## Useful links
 
