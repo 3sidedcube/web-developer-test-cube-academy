@@ -47,7 +47,7 @@ E.g.
 
 ```
 {
-  "authorization": `bearer ${token}`
+  "authorization": `Bearer ${token}`
 }
 ```
 
